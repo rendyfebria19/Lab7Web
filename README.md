@@ -23,4 +23,15 @@ serta output yang menampilkan sebuah nama, umur dan juga gaji
 - variable berhasil ditambahkan pada program yang menampilan nim dan nama![4](https://user-images.githubusercontent.com/59887134/117451331-98cf8e00-af6c-11eb-83ce-5f571038950a.png)
 
 3. membuat form input dengan Predefine Variable $_GET![5](https://user-images.githubusercontent.com/59887134/117451607-e946eb80-af6c-11eb-8ce6-b973a66d7bf3.png)
-- form input berhasil dijalankan dengan masukan nama setalah dikirim dapat menampilkan selamat datang se pengguna![6](https://user-images.githubusercontent.com/59887134/117451796-2f03b400-af6d-11eb-8f99-d2e59dfddfe2.png)
+- form input berhasil dijalankan dengan masukan nama setalah dikirim dapat menampilkan selamat datang sipengguna![6](https://user-images.githubusercontent.com/59887134/117451796-2f03b400-af6d-11eb-8f99-d2e59dfddfe2.png)
+
+4. melakukan program php dengan Operator![7](https://user-images.githubusercontent.com/59887134/117452130-9ae61c80-af6d-11eb-96e1-eeaa38023730.png)
+- operator berhasil ditampilkan pada browser yang menampilan gaji sebelum pajak, dan gaji yang dibawa pulang![8](https://user-images.githubusercontent.com/59887134/117452232-b6e9be00-af6d-11eb-9a3f-db32c0666dda.png)
+
+5. selanjutnya melakukan perulangan for pada php![perulangan for 1a](https://user-images.githubusercontent.com/59887134/117452740-54dd8880-af6e-11eb-827a-0982b5dd7b8f.png)
+- program perulangan berhasil dijalankan pada browser dengan menampilkan perulangan 1 sampai 10, dan menurun 10 sampai 1![perulangan for 1b](https://user-images.githubusercontent.com/59887134/117453107-c0bff100-af6e-11eb-8fd8-ce49a6dfebaa.png)
+
+6. melakukan perulangan while ![while 1a](https://user-images.githubusercontent.com/59887134/117453432-26ac7880-af6f-11eb-811b-eaa8510efeea.png)
+- program perulangan while berhasil ditambahkan dengan menalpilkan perulangan 1 sampai 10![while 1b](https://user-images.githubusercontent.com/59887134/117453866-a2a6c080-af6f-11eb-8e73-2e1ba38c9878.png)
+
+
